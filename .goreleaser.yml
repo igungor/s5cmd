@@ -6,7 +6,6 @@ before:
 builds:
   -
     binary: s5cmd
-    id: s5cmd
     ldflags: -s -w -X github.com/igungor/s5cmd/version/version.Version={{.Tag}} -X github.com/igungor/s5cmd/version/version.GitCommit={{ .ShortCommit }}
     env:
       - CGO_ENABLED=0
