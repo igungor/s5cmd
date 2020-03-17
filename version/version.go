@@ -13,5 +13,5 @@ func GetHumanVersion() string {
 		version = "v" + Version
 	}
 
-	return Version + "-" + GitCommit
+	return version + "-" + GitCommit
 }
