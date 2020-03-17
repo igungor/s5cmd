@@ -46,10 +46,10 @@ changelog:
 
 brews:
   - github:
-      owner: peak
+      owner: igungor
       name: s5cmd
     folder: Formula
-    homepage:  https://github.com/peak/s5cmd
+    homepage:  https://github.com/igungor/s5cmd
     description: Parallel S3 and local filesystem execution tool
     test: |
       system "#{bin}/s5cmd -v"
