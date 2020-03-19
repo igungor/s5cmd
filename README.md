@@ -5,11 +5,9 @@
 
 # s5cmd #
 
-This is a parallel S3 and local filesystem execution tool.
+`s5cmd` is a fast parallel S3 and local filesystem execution tool.
 
-![demo1](./doc/recording1.gif)
-
-![demo2](./doc/recording2.gif)
+![](./doc/hero.png)
 
 ## Installation ##
 
