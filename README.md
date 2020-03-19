@@ -5,7 +5,7 @@
 
 `s5cmd` is a very fast S3 and local filesystem execution tool.
 
--![](./doc/hero.png)
+![](./doc/hero.png)
 
 ## Installation
 
